@@ -37,3 +37,25 @@ Standardized text fields (Genre, Country, Rating)
 Converted data types
 Split multi-value columns
 Created calculated columns and measures using DAX
+
+**📚 Key Learnings**
+
+Building interactive Power BI dashboards
+Working with real-world datasets
+Data modeling best practices
+Creating meaningful KPIs and visuals
+Applying filters and slicers for analysis
+
+**🚀 How to Use**
+
+Clone or download this repository
+Open the .pbix file using Power BI Desktop
+Ensure Data.csv is available if prompted
+Explore insights using slicers and visuals
+
+**📸 Dashboard Preview**
+
+<img width="596" height="334" alt="image" src="https://github.com/user-attachments/assets/63954f04-d775-47c1-a3bf-400b8484a1f3" />
+
+⭐ If you like this project, feel free to star the repository!
+
