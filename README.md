@@ -1,5 +1,7 @@
 # Netflix-Dashboard
 End-to-end Netflix data analysis using Power BI, showcasing KPIs, genre distribution, country-wise content, and release year trends.
+
+
 📌 Project Overview
 
 This project is an interactive Netflix Dashboard developed using Power BI to analyze Netflix Movies and TV Shows data.
